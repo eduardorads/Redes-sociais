@@ -51,4 +51,6 @@
     align-items: center;
     justify-content: center;
     background-color: var(--primary-color);
+    color: var(--bg-color);
+    width: 100%;
  }
