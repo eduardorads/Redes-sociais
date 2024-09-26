@@ -42,5 +42,6 @@
 
  nav a:hover {
     text-decoration: underline;
-    transform:scale(0.90)
+    transform:scale(0.90);
+    transition: transform 0.1s;
  }
