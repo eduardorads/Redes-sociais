@@ -16,6 +16,5 @@
     margin: 0;
  }
  header{
-    background-color: var(--primary-color)
-    text-aling: center;
+    background-color: var(--primary-color);
  }
